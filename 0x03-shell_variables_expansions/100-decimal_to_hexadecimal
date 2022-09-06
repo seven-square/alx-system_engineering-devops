@@ -1,0 +1,2 @@
+#!/bin/bash
+printf %xn "$((10#$DECIMAL))
